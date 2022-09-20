@@ -3,7 +3,7 @@
 #include<locale.h>
 #include <string.h> 
 
-//Haşim Ensar KAVAK 2018280027
+
 
 typedef struct //müşteriler için struct
 {
